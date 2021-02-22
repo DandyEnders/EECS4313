@@ -1,1 +1,810 @@
 2021-02-12 09:40:04,703 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-02-18 09:35:13,484 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-18 09:36:10,489 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: BORGCalendar:BORGCalendar:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\pom.xml.
+2021-02-18 09:36:10,630 [Worker-30: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: BORGCalendar:BORGCalendar:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\pom.xml.
+2021-02-18 09:37:27,166 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: BORGCalendar:BORGCalendar:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\pom.xml.
+2021-02-18 09:37:45,717 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:common:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\common\pom.xml.
+2021-02-18 09:37:46,420 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-02-18 09:37:46,424 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:37:46,428 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-02-18 09:37:46,499 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:37:46,500 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\common\src\test\resources
+2021-02-18 09:37:48,150 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-02-18 09:37:48,151 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:37:48,155 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-02-18 09:37:48,220 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:37:48,221 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\common\src\test\resources
+2021-02-18 09:37:57,378 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:install:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\install\pom.xml.
+2021-02-18 09:37:57,399 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:37:57,400 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2021-02-18 09:37:57,446 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-02-18 09:37:57,447 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:37:57,448 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2021-02-18 09:37:57,564 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:37:57,565 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\install\src\test\resources
+2021-02-18 09:38:00,661 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:model:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\model\pom.xml.
+2021-02-18 09:38:00,887 [Worker-14: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-18 09:38:00,997 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:38:00,998 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-02-18 09:38:01,002 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:38:01,003 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-18 09:38:02,890 [Worker-38: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-18 09:38:02,904 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:38:02,905 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-02-18 09:38:02,910 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:38:02,911 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-18 09:38:03,722 [Worker-38: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:swingui:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\pom.xml.
+2021-02-18 09:38:03,838 [Worker-38: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-18 09:38:03,839 [Worker-38: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/model: BORGCalendar:model:1.9 with classifier  to /model/target/classes
+2021-02-18 09:38:04,078 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:38:04,079 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 76 resources
+2021-02-18 09:38:04,141 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:38:04,142 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\src\test\resources
+2021-02-18 09:38:06,043 [Worker-7: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-18 09:38:06,045 [Worker-7: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/model: BORGCalendar:model:1.9 with classifier  to /model/target/classes
+2021-02-18 09:38:06,056 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:38:06,059 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 76 resources
+2021-02-18 09:38:06,122 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:38:06,123 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\src\test\resources
+2021-02-18 09:42:34,051 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:model:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\model\pom.xml.
+2021-02-18 09:42:34,108 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-18 09:42:34,136 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:install:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\install\pom.xml.
+2021-02-18 09:42:34,159 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:swingui:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\pom.xml.
+2021-02-18 09:42:34,164 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-18 09:42:34,165 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/model: BORGCalendar:model:1.9 with classifier  to /model/target/classes
+2021-02-18 09:42:34,187 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:common:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\common\pom.xml.
+2021-02-18 09:42:34,200 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:model:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\model\pom.xml.
+2021-02-18 09:42:34,202 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-18 09:42:34,225 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:install:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\install\pom.xml.
+2021-02-18 09:42:34,247 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:swingui:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\pom.xml.
+2021-02-18 09:42:34,248 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-18 09:42:34,249 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/model: BORGCalendar:model:1.9 with classifier  to /model/target/classes
+2021-02-18 09:42:34,512 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-02-18 09:42:34,515 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:42:34,515 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 09:42:34,516 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:42:34,517 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\common\src\test\resources
+2021-02-18 09:42:34,522 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:42:34,523 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 09:42:34,524 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-02-18 09:42:34,524 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:42:34,524 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 09:42:34,525 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:42:34,525 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\install\src\test\resources
+2021-02-18 09:42:34,608 [Worker-16: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-18 09:42:34,619 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:42:34,620 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 09:42:34,621 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:42:34,621 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 09:42:34,706 [Worker-16: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-18 09:42:34,707 [Worker-16: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/model: BORGCalendar:model:1.9 with classifier  to /model/target/classes
+2021-02-18 09:42:34,718 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:42:34,718 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 09:42:34,719 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:42:34,719 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\src\test\resources
+2021-02-18 09:43:08,516 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: BORGCalendar:BORGCalendar:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\pom.xml.
+2021-02-18 09:44:14,202 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:common:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\common\pom.xml.
+2021-02-18 09:44:14,349 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-02-18 09:44:14,352 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:44:14,353 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-02-18 09:44:14,419 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:44:14,420 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\common\src\test\resources
+2021-02-18 09:44:15,493 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-02-18 09:44:15,494 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:44:15,495 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-02-18 09:44:15,539 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:44:15,539 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\common\src\test\resources
+2021-02-18 09:44:16,633 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:install:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\install\pom.xml.
+2021-02-18 09:44:16,642 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:44:16,642 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2021-02-18 09:44:16,671 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-02-18 09:44:16,672 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:44:16,672 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2021-02-18 09:44:16,780 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:44:16,781 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\install\src\test\resources
+2021-02-18 09:44:17,998 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:model:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\model\pom.xml.
+2021-02-18 09:44:18,062 [Worker-6: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-18 09:44:18,114 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:44:18,115 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-02-18 09:44:18,119 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:44:18,120 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-18 09:44:19,802 [Worker-23: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-18 09:44:19,811 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:44:19,812 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-02-18 09:44:19,815 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:44:19,816 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-18 09:44:20,221 [Worker-23: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:swingui:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\pom.xml.
+2021-02-18 09:44:20,292 [Worker-23: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-18 09:44:20,293 [Worker-23: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/model: BORGCalendar:model:1.9 with classifier  to /model/target/classes
+2021-02-18 09:44:20,425 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:44:20,425 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 76 resources
+2021-02-18 09:44:20,482 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:44:20,482 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\src\test\resources
+2021-02-18 09:44:22,056 [Worker-7: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-18 09:44:22,057 [Worker-7: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/model: BORGCalendar:model:1.9 with classifier  to /model/target/classes
+2021-02-18 09:44:22,069 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:44:22,074 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 76 resources
+2021-02-18 09:44:22,140 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:44:22,141 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\src\test\resources
+2021-02-18 09:47:08,050 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2021-02-18 09:47:13,547 [Worker-34: Launching Executing test in C__Users_sunny_github_EECS4313_assignment2_borg_calendar-1.9.0.2_borg_calendar-1.9.0.2_BORGCalendar_common] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\common
+2021-02-18 09:47:13,547 [Worker-34: Launching Executing test in C__Users_sunny_github_EECS4313_assignment2_borg_calendar-1.9.0.2_borg_calendar-1.9.0.2_BORGCalendar_common] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-02-18 09:47:16,180 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-02-18 09:47:16,181 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:47:16,182 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-02-18 09:47:16,210 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:47:16,210 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\common\src\test\resources
+2021-02-18 09:56:04,526 [Worker-43: Launching Executing install in C__Users_sunny_github_EECS4313_assignment2_borg_calendar-1.9.0.2_borg_calendar-1.9.0.2_BORGCalendar_swingui] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui
+2021-02-18 09:56:04,526 [Worker-43: Launching Executing install in C__Users_sunny_github_EECS4313_assignment2_borg_calendar-1.9.0.2_borg_calendar-1.9.0.2_BORGCalendar_swingui] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-02-18 09:56:07,602 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:56:07,603 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 09:56:07,603 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:56:07,604 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\src\test\resources
+2021-02-18 09:59:26,753 [Worker-43: Launching borg build] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar
+2021-02-18 09:59:26,753 [Worker-43: Launching borg build] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2021-02-18 09:59:39,734 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-02-18 09:59:39,735 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:59:39,736 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-02-18 09:59:39,768 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:59:39,768 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\common\src\test\resources
+2021-02-18 09:59:39,786 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:59:39,788 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2021-02-18 09:59:39,791 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-02-18 09:59:39,791 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:59:39,793 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2021-02-18 09:59:39,920 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:59:39,921 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\install\src\test\resources
+2021-02-18 09:59:39,963 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:59:39,964 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-02-18 09:59:39,965 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:59:39,965 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-18 09:59:39,984 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:59:39,988 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 76 resources
+2021-02-18 09:59:39,993 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:59:39,993 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\src\test\resources
+2021-02-18 09:59:42,312 [Worker-46: Launching borg clean] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar
+2021-02-18 09:59:42,312 [Worker-46: Launching borg clean] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2021-02-18 09:59:43,912 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-02-18 09:59:43,912 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:59:43,914 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-02-18 09:59:43,946 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:59:43,947 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\common\src\test\resources
+2021-02-18 09:59:43,958 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:59:43,961 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2021-02-18 09:59:44,000 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-02-18 09:59:44,001 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:59:44,003 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2021-02-18 09:59:44,099 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:59:44,099 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\install\src\test\resources
+2021-02-18 09:59:44,124 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:59:44,125 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-02-18 09:59:44,128 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:59:44,129 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-18 09:59:44,145 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:59:44,149 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 76 resources
+2021-02-18 09:59:44,220 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 09:59:44,220 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\src\test\resources
+2021-02-18 09:59:50,366 [Worker-47: Launching borg build] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar
+2021-02-18 09:59:50,366 [Worker-47: Launching borg build] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2021-02-18 10:00:03,103 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-02-18 10:00:03,104 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:00:03,105 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-02-18 10:00:03,142 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:00:03,143 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\common\src\test\resources
+2021-02-18 10:00:03,156 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:00:03,158 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2021-02-18 10:00:03,160 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-02-18 10:00:03,161 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:00:03,162 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2021-02-18 10:00:03,252 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:00:03,253 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\install\src\test\resources
+2021-02-18 10:00:03,279 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:00:03,280 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-02-18 10:00:03,281 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:00:03,281 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-18 10:00:03,298 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:00:03,303 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 76 resources
+2021-02-18 10:00:03,307 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:00:03,308 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\src\test\resources
+2021-02-18 10:00:34,426 [Worker-49: Launching borg javadoc] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar
+2021-02-18 10:00:34,426 [Worker-49: Launching borg javadoc] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B javadoc:javadoc
+2021-02-18 10:01:07,227 [Worker-43: Launching BORG update version] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar
+2021-02-18 10:01:07,227 [Worker-43: Launching BORG update version] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -DnewVersion=1.9 -B -Dmaven.test.skip=true -DskipTests versions:set  versions:use-latest-releases
+2021-02-18 10:01:17,083 [Worker-45: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:model:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\model\pom.xml.
+2021-02-18 10:01:17,254 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.18/lombok-1.18.18.pom
+2021-02-18 10:01:17,310 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.18/lombok-1.18.18.pom
+2021-02-18 10:01:17,329 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2.pom
+2021-02-18 10:01:17,347 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2.pom
+2021-02-18 10:01:17,367 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-net/commons-net/3.7.2/commons-net-3.7.2.pom
+2021-02-18 10:01:17,399 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-net/commons-net/3.7.2/commons-net-3.7.2.pom
+2021-02-18 10:01:17,413 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/52/commons-parent-52.pom
+2021-02-18 10:01:17,441 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/52/commons-parent-52.pom
+2021-02-18 10:01:17,472 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j-connector/1.0.4/ical4j-connector-1.0.4.pom
+2021-02-18 10:01:17,507 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j-connector/1.0.4/ical4j-connector-1.0.4.pom
+2021-02-18 10:01:17,554 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j/2.2.6/ical4j-2.2.6.pom
+2021-02-18 10:01:17,583 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j/2.2.6/ical4j-2.2.6.pom
+2021-02-18 10:01:17,611 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j-extensions/1.0.3/ical4j-extensions-1.0.3.pom
+2021-02-18 10:01:17,639 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j-extensions/1.0.3/ical4j-extensions-1.0.3.pom
+2021-02-18 10:01:17,672 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j-vcard/1.0.5/ical4j-vcard-1.0.5.pom
+2021-02-18 10:01:17,698 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j-vcard/1.0.5/ical4j-vcard-1.0.5.pom
+2021-02-18 10:01:17,726 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j/2.2.2/ical4j-2.2.2.pom
+2021-02-18 10:01:17,760 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j/2.2.2/ical4j-2.2.2.pom
+2021-02-18 10:01:17,777 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.pom
+2021-02-18 10:01:17,787 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.pom
+2021-02-18 10:01:17,816 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-webdav/2.20.0/jackrabbit-webdav-2.20.0.pom
+2021-02-18 10:01:17,842 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-webdav/2.20.0/jackrabbit-webdav-2.20.0.pom
+2021-02-18 10:01:17,858 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-parent/2.20.0/jackrabbit-parent-2.20.0.pom
+2021-02-18 10:01:17,889 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-parent/2.20.0/jackrabbit-parent-2.20.0.pom
+2021-02-18 10:01:17,903 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.29/slf4j-api-1.7.29.pom
+2021-02-18 10:01:17,914 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.29/slf4j-api-1.7.29.pom
+2021-02-18 10:01:17,926 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.29/slf4j-parent-1.7.29.pom
+2021-02-18 10:01:17,940 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.29/slf4j-parent-1.7.29.pom
+2021-02-18 10:01:17,952 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.12/httpcore-4.4.12.pom
+2021-02-18 10:01:17,974 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.12/httpcore-4.4.12.pom
+2021-02-18 10:01:17,992 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.12/httpcomponents-core-4.4.12.pom
+2021-02-18 10:01:18,005 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.12/httpcomponents-core-4.4.12.pom
+2021-02-18 10:01:18,020 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.10/httpclient-4.5.10.pom
+2021-02-18 10:01:18,032 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.10/httpclient-4.5.10.pom
+2021-02-18 10:01:18,045 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5.10/httpcomponents-client-4.5.10.pom
+2021-02-18 10:01:18,055 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5.10/httpcomponents-client-4.5.10.pom
+2021-02-18 10:01:18,069 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.29/jcl-over-slf4j-1.7.29.pom
+2021-02-18 10:01:18,087 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.29/jcl-over-slf4j-1.7.29.pom
+2021-02-18 10:01:18,119 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j/4.0.0-alpha8/ical4j-4.0.0-alpha8.pom
+2021-02-18 10:01:18,146 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j/4.0.0-alpha8/ical4j-4.0.0-alpha8.pom
+2021-02-18 10:01:18,164 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.14/commons-codec-1.14.pom
+2021-02-18 10:01:18,175 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.14/commons-codec-1.14.pom
+2021-02-18 10:01:18,190 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/50/commons-parent-50.pom
+2021-02-18 10:01:18,211 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/50/commons-parent-50.pom
+2021-02-18 10:01:18,228 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.10/commons-lang3-3.10.pom
+2021-02-18 10:01:18,239 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.10/commons-lang3-3.10.pom
+2021-02-18 10:01:18,254 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.pom
+2021-02-18 10:01:18,265 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.pom
+2021-02-18 10:01:18,284 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/threeten/threeten-extra/1.5.0/threeten-extra-1.5.0.pom
+2021-02-18 10:01:18,293 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/threeten/threeten-extra/1.5.0/threeten-extra-1.5.0.pom
+2021-02-18 10:01:18,324 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jooq/jool-java-8/0.9.14/jool-java-8-0.9.14.pom
+2021-02-18 10:01:18,354 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jooq/jool-java-8/0.9.14/jool-java-8-0.9.14.pom
+2021-02-18 10:01:18,382 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-webdav/2.21.5/jackrabbit-webdav-2.21.5.pom
+2021-02-18 10:01:18,421 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-webdav/2.21.5/jackrabbit-webdav-2.21.5.pom
+2021-02-18 10:01:18,441 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-parent/2.21.5/jackrabbit-parent-2.21.5.pom
+2021-02-18 10:01:18,451 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-parent/2.21.5/jackrabbit-parent-2.21.5.pom
+2021-02-18 10:01:18,464 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.pom
+2021-02-18 10:01:18,474 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.pom
+2021-02-18 10:01:18,486 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.14/httpcomponents-core-4.4.14.pom
+2021-02-18 10:01:18,499 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.14/httpcomponents-core-4.4.14.pom
+2021-02-18 10:01:18,510 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.pom
+2021-02-18 10:01:18,521 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.pom
+2021-02-18 10:01:18,541 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5.13/httpcomponents-client-4.5.13.pom
+2021-02-18 10:01:18,552 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5.13/httpcomponents-client-4.5.13.pom
+2021-02-18 10:01:18,568 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.30/jcl-over-slf4j-1.7.30.pom
+2021-02-18 10:01:18,579 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.30/jcl-over-slf4j-1.7.30.pom
+2021-02-18 10:01:18,593 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.4.0-b180830.0359/jaxb-api-2.4.0-b180830.0359.pom
+2021-02-18 10:01:18,604 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.4.0-b180830.0359/jaxb-api-2.4.0-b180830.0359.pom
+2021-02-18 10:01:18,618 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api-parent/2.4.0-b180830.0359/jaxb-api-parent-2.4.0-b180830.0359.pom
+2021-02-18 10:01:18,630 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api-parent/2.4.0-b180830.0359/jaxb-api-parent-2.4.0-b180830.0359.pom
+2021-02-18 10:01:18,646 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-core/3.0.0/jaxb-core-3.0.0.pom
+2021-02-18 10:01:18,666 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-core/3.0.0/jaxb-core-3.0.0.pom
+2021-02-18 10:01:18,677 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-bundles/3.0.0/jaxb-bundles-3.0.0.pom
+2021-02-18 10:01:18,686 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-bundles/3.0.0/jaxb-bundles-3.0.0.pom
+2021-02-18 10:01:18,701 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-parent/3.0.0/jaxb-parent-3.0.0.pom
+2021-02-18 10:01:18,714 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-parent/3.0.0/jaxb-parent-3.0.0.pom
+2021-02-18 10:01:18,726 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-bom-ext/3.0.0/jaxb-bom-ext-3.0.0.pom
+2021-02-18 10:01:18,736 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-bom-ext/3.0.0/jaxb-bom-ext-3.0.0.pom
+2021-02-18 10:01:18,748 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-bom/3.0.0/jaxb-bom-3.0.0.pom
+2021-02-18 10:01:18,759 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-bom/3.0.0/jaxb-bom-3.0.0.pom
+2021-02-18 10:01:18,777 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/xml/bind/jakarta.xml.bind-api/3.0.0/jakarta.xml.bind-api-3.0.0.pom
+2021-02-18 10:01:18,792 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/xml/bind/jakarta.xml.bind-api/3.0.0/jakarta.xml.bind-api-3.0.0.pom
+2021-02-18 10:01:18,805 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/xml/bind/jakarta.xml.bind-api-parent/3.0.0/jakarta.xml.bind-api-parent-3.0.0.pom
+2021-02-18 10:01:18,818 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/xml/bind/jakarta.xml.bind-api-parent/3.0.0/jakarta.xml.bind-api-parent-3.0.0.pom
+2021-02-18 10:01:18,831 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/activation/jakarta.activation/2.0.0/jakarta.activation-2.0.0.pom
+2021-02-18 10:01:18,840 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/activation/jakarta.activation/2.0.0/jakarta.activation-2.0.0.pom
+2021-02-18 10:01:18,854 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/activation/all/2.0.0/all-2.0.0.pom
+2021-02-18 10:01:18,865 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/activation/all/2.0.0/all-2.0.0.pom
+2021-02-18 10:01:18,876 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-impl/3.0.0/jaxb-impl-3.0.0.pom
+2021-02-18 10:01:18,912 [Worker-45: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-impl/3.0.0/jaxb-impl-3.0.0.pom
+2021-02-18 10:01:18,916 [Worker-45: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-18 10:01:18,946 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.18/lombok-1.18.18.jar
+2021-02-18 10:01:18,972 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-net/commons-net/3.7.2/commons-net-3.7.2.jar
+2021-02-18 10:01:18,972 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2.jar
+2021-02-18 10:01:18,972 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j-extensions/1.0.3/ical4j-extensions-1.0.3.jar
+2021-02-18 10:01:19,004 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j-connector/1.0.4/ical4j-connector-1.0.4.jar
+2021-02-18 10:01:19,147 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j-extensions/1.0.3/ical4j-extensions-1.0.3.jar
+2021-02-18 10:01:19,173 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j-connector/1.0.4/ical4j-connector-1.0.4.jar
+2021-02-18 10:01:19,207 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j-vcard/1.0.5/ical4j-vcard-1.0.5.jar
+2021-02-18 10:01:19,236 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j/4.0.0-alpha8/ical4j-4.0.0-alpha8.jar
+2021-02-18 10:01:19,239 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-net/commons-net/3.7.2/commons-net-3.7.2.jar
+2021-02-18 10:01:19,242 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2.jar
+2021-02-18 10:01:19,277 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.14/commons-codec-1.14.jar
+2021-02-18 10:01:19,277 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.10/commons-lang3-3.10.jar
+2021-02-18 10:01:19,349 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j-vcard/1.0.5/ical4j-vcard-1.0.5.jar
+2021-02-18 10:01:19,392 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar
+2021-02-18 10:01:19,642 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.14/commons-codec-1.14.jar
+2021-02-18 10:01:19,688 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/threeten/threeten-extra/1.5.0/threeten-extra-1.5.0.jar
+2021-02-18 10:01:19,784 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.10/commons-lang3-3.10.jar
+2021-02-18 10:01:19,857 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jooq/jool-java-8/0.9.14/jool-java-8-0.9.14.jar
+2021-02-18 10:01:19,892 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/threeten/threeten-extra/1.5.0/threeten-extra-1.5.0.jar
+2021-02-18 10:01:19,961 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-webdav/2.21.5/jackrabbit-webdav-2.21.5.jar
+2021-02-18 10:01:20,010 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar
+2021-02-18 10:01:20,054 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar
+2021-02-18 10:01:20,226 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.18/lombok-1.18.18.jar
+2021-02-18 10:01:20,249 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar
+2021-02-18 10:01:20,276 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-webdav/2.21.5/jackrabbit-webdav-2.21.5.jar
+2021-02-18 10:01:20,289 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jooq/jool-java-8/0.9.14/jool-java-8-0.9.14.jar
+2021-02-18 10:01:20,300 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar
+2021-02-18 10:01:20,334 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.30/jcl-over-slf4j-1.7.30.jar
+2021-02-18 10:01:20,340 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.4.0-b180830.0359/jaxb-api-2.4.0-b180830.0359.jar
+2021-02-18 10:01:20,358 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-core/3.0.0/jaxb-core-3.0.0.jar
+2021-02-18 10:01:20,385 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j/4.0.0-alpha8/ical4j-4.0.0-alpha8.jar
+2021-02-18 10:01:20,402 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.30/jcl-over-slf4j-1.7.30.jar
+2021-02-18 10:01:20,454 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/xml/bind/jakarta.xml.bind-api/3.0.0/jakarta.xml.bind-api-3.0.0.jar
+2021-02-18 10:01:20,469 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/activation/jakarta.activation/2.0.0/jakarta.activation-2.0.0.jar
+2021-02-18 10:01:20,470 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.4.0-b180830.0359/jaxb-api-2.4.0-b180830.0359.jar
+2021-02-18 10:01:20,487 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar
+2021-02-18 10:01:20,488 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-impl/3.0.0/jaxb-impl-3.0.0.jar
+2021-02-18 10:01:20,529 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/activation/jakarta.activation/2.0.0/jakarta.activation-2.0.0.jar
+2021-02-18 10:01:20,529 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-core/3.0.0/jaxb-core-3.0.0.jar
+2021-02-18 10:01:20,543 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/xml/bind/jakarta.xml.bind-api/3.0.0/jakarta.xml.bind-api-3.0.0.jar
+2021-02-18 10:01:20,661 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-impl/3.0.0/jaxb-impl-3.0.0.jar
+2021-02-18 10:01:20,700 [Worker-45: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:install:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\install\pom.xml.
+2021-02-18 10:01:20,715 [Worker-45: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:swingui:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\pom.xml.
+2021-02-18 10:01:20,719 [Worker-45: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-18 10:01:20,720 [Worker-45: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/model: BORGCalendar:model:1.9 with classifier  to /model/target/classes
+2021-02-18 10:01:20,733 [Worker-45: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: BORGCalendar:BORGCalendar:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\pom.xml.
+2021-02-18 10:01:20,744 [Worker-45: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:common:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\common\pom.xml.
+2021-02-18 10:01:21,152 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-02-18 10:01:21,154 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:01:21,155 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 10:01:21,156 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:01:21,156 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\common\src\test\resources
+2021-02-18 10:01:21,161 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:01:21,162 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 10:01:21,163 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-02-18 10:01:21,163 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:01:21,163 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 10:01:21,164 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:01:21,164 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\install\src\test\resources
+2021-02-18 10:01:21,485 [Worker-46: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-18 10:01:21,497 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:01:21,498 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-02-18 10:01:21,504 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:01:21,505 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-18 10:01:21,864 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.18/lombok-1.18.18-sources.jar
+2021-02-18 10:01:22,054 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.18/lombok-1.18.18-sources.jar
+2021-02-18 10:01:22,060 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.18
+2021-02-18 10:01:22,148 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2-sources.jar
+2021-02-18 10:01:22,200 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2-sources.jar
+2021-02-18 10:01:22,202 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.13.2
+2021-02-18 10:01:22,387 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-net/commons-net/3.7.2/commons-net-3.7.2-sources.jar
+2021-02-18 10:01:22,485 [Worker-48: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-18 10:01:22,486 [Worker-48: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/model: BORGCalendar:model:1.9 with classifier  to /model/target/classes
+2021-02-18 10:01:22,492 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-net/commons-net/3.7.2/commons-net-3.7.2-sources.jar
+2021-02-18 10:01:22,494 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-net:commons-net:3.7.2
+2021-02-18 10:01:22,501 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:01:22,505 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 76 resources
+2021-02-18 10:01:22,579 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:01:22,580 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\src\test\resources
+2021-02-18 10:01:22,595 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j-connector/1.0.4/ical4j-connector-1.0.4-sources.jar
+2021-02-18 10:01:22,641 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j-connector/1.0.4/ical4j-connector-1.0.4-sources.jar
+2021-02-18 10:01:22,643 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mnode.ical4j:ical4j-connector:1.0.4
+2021-02-18 10:01:22,752 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j-extensions/1.0.3/ical4j-extensions-1.0.3-sources.jar
+2021-02-18 10:01:22,790 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j-extensions/1.0.3/ical4j-extensions-1.0.3-sources.jar
+2021-02-18 10:01:22,791 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mnode.ical4j:ical4j-extensions:1.0.3
+2021-02-18 10:01:22,800 [Worker-47: Launching borg version check] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar
+2021-02-18 10:01:22,800 [Worker-47: Launching borg version check] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests versions:display-dependency-updates
+2021-02-18 10:01:22,892 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j-vcard/1.0.5/ical4j-vcard-1.0.5-sources.jar
+2021-02-18 10:01:22,942 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j-vcard/1.0.5/ical4j-vcard-1.0.5-sources.jar
+2021-02-18 10:01:22,944 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mnode.ical4j:ical4j-vcard:1.0.5
+2021-02-18 10:01:23,200 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j/4.0.0-alpha8/ical4j-4.0.0-alpha8-sources.jar
+2021-02-18 10:01:23,430 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j/4.0.0-alpha8/ical4j-4.0.0-alpha8-sources.jar
+2021-02-18 10:01:23,433 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mnode.ical4j:ical4j:4.0.0-alpha8
+2021-02-18 10:01:23,517 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.14/commons-codec-1.14-sources.jar
+2021-02-18 10:01:23,590 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.14/commons-codec-1.14-sources.jar
+2021-02-18 10:01:23,593 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.14
+2021-02-18 10:01:23,685 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.10/commons-lang3-3.10-sources.jar
+2021-02-18 10:01:23,851 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.10/commons-lang3-3.10-sources.jar
+2021-02-18 10:01:23,854 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-lang3:3.10
+2021-02-18 10:01:23,939 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4-sources.jar
+2021-02-18 10:01:24,075 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4-sources.jar
+2021-02-18 10:01:24,078 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-collections4:4.4
+2021-02-18 10:01:24,167 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/threeten/threeten-extra/1.5.0/threeten-extra-1.5.0-sources.jar
+2021-02-18 10:01:24,239 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/threeten/threeten-extra/1.5.0/threeten-extra-1.5.0-sources.jar
+2021-02-18 10:01:24,242 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.threeten:threeten-extra:1.5.0
+2021-02-18 10:01:24,352 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jooq/jool-java-8/0.9.14/jool-java-8-0.9.14-sources.jar
+2021-02-18 10:01:24,462 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jooq/jool-java-8/0.9.14/jool-java-8-0.9.14-sources.jar
+2021-02-18 10:01:24,464 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jooq:jool-java-8:0.9.14
+2021-02-18 10:01:24,582 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-webdav/2.21.5/jackrabbit-webdav-2.21.5-sources.jar
+2021-02-18 10:01:24,671 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-webdav/2.21.5/jackrabbit-webdav-2.21.5-sources.jar
+2021-02-18 10:01:24,673 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.jackrabbit:jackrabbit-webdav:2.21.5
+2021-02-18 10:01:24,770 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14-sources.jar
+2021-02-18 10:01:24,861 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14-sources.jar
+2021-02-18 10:01:24,863 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpcore:4.4.14
+2021-02-18 10:01:24,958 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13-sources.jar
+2021-02-18 10:01:25,095 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13-sources.jar
+2021-02-18 10:01:25,097 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpclient:4.5.13
+2021-02-18 10:01:25,204 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2021-02-18 10:01:25,235 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2021-02-18 10:01:25,237 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.2
+2021-02-18 10:01:25,335 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.30/jcl-over-slf4j-1.7.30-sources.jar
+2021-02-18 10:01:25,403 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.30/jcl-over-slf4j-1.7.30-sources.jar
+2021-02-18 10:01:25,405 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:jcl-over-slf4j:1.7.30
+2021-02-18 10:01:25,496 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.4.0-b180830.0359/jaxb-api-2.4.0-b180830.0359-sources.jar
+2021-02-18 10:01:25,561 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.4.0-b180830.0359/jaxb-api-2.4.0-b180830.0359-sources.jar
+2021-02-18 10:01:25,563 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.xml.bind:jaxb-api:2.4.0-b180830.0359
+2021-02-18 10:01:25,675 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-core/3.0.0/jaxb-core-3.0.0-sources.jar
+2021-02-18 10:01:25,737 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-core/3.0.0/jaxb-core-3.0.0-sources.jar
+2021-02-18 10:01:25,739 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.xml.bind:jaxb-core:3.0.0
+2021-02-18 10:01:25,825 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/xml/bind/jakarta.xml.bind-api/3.0.0/jakarta.xml.bind-api-3.0.0-sources.jar
+2021-02-18 10:01:25,880 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/xml/bind/jakarta.xml.bind-api/3.0.0/jakarta.xml.bind-api-3.0.0-sources.jar
+2021-02-18 10:01:25,882 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.xml.bind:jakarta.xml.bind-api:3.0.0
+2021-02-18 10:01:25,980 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/activation/jakarta.activation/2.0.0/jakarta.activation-2.0.0-sources.jar
+2021-02-18 10:01:26,002 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/activation/jakarta.activation/2.0.0/jakarta.activation-2.0.0-sources.jar
+2021-02-18 10:01:26,004 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.activation:jakarta.activation:2.0.0
+2021-02-18 10:01:26,088 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-impl/3.0.0/jaxb-impl-3.0.0-sources.jar
+2021-02-18 10:01:26,228 [Worker-45: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-impl/3.0.0/jaxb-impl-3.0.0-sources.jar
+2021-02-18 10:01:26,230 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.xml.bind:jaxb-impl:3.0.0
+2021-02-18 10:01:26,232 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.18
+2021-02-18 10:01:26,233 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-net:commons-net:3.7.2
+2021-02-18 10:01:26,234 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mnode.ical4j:ical4j-connector:1.0.4
+2021-02-18 10:01:26,236 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mnode.ical4j:ical4j-extensions:1.0.3
+2021-02-18 10:01:26,237 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mnode.ical4j:ical4j-vcard:1.0.5
+2021-02-18 10:01:26,239 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mnode.ical4j:ical4j:4.0.0-alpha8
+2021-02-18 10:01:26,240 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.14
+2021-02-18 10:01:26,242 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-lang3:3.10
+2021-02-18 10:01:26,243 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-collections4:4.4
+2021-02-18 10:01:26,245 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.threeten:threeten-extra:1.5.0
+2021-02-18 10:01:26,246 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jooq:jool-java-8:0.9.14
+2021-02-18 10:01:26,248 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.jackrabbit:jackrabbit-webdav:2.21.5
+2021-02-18 10:01:26,249 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpcore:4.4.14
+2021-02-18 10:01:26,250 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpclient:4.5.13
+2021-02-18 10:01:26,252 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.2
+2021-02-18 10:01:26,253 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:jcl-over-slf4j:1.7.30
+2021-02-18 10:01:26,255 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.xml.bind:jaxb-api:2.4.0-b180830.0359
+2021-02-18 10:01:26,257 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.xml.bind:jaxb-core:3.0.0
+2021-02-18 10:01:26,259 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.xml.bind:jakarta.xml.bind-api:3.0.0
+2021-02-18 10:01:26,260 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.activation:jakarta.activation:2.0.0
+2021-02-18 10:01:26,262 [Worker-45: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.xml.bind:jaxb-impl:3.0.0
+2021-02-18 10:01:27,252 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:01:27,253 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 10:01:27,253 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:01:27,253 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 10:01:27,262 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:01:27,263 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 10:01:27,263 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-18 10:01:27,264 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\src\test\resources
+2021-02-18 10:01:40,058 [Worker-50: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/sunny/AppData/Local/Temp/RemoteBundleDiscoveryStrategy6151484819214307173.tmp/org.eclipse.m2e.discovery.oss_catalog_1.13.jar_5710184488375327761.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp.xml
+2021-02-18 10:01:40,058 [Worker-50: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp does not contain lifecycle mapping metadata
+2021-02-18 10:01:40,059 [Worker-50: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/sunny/AppData/Local/Temp/RemoteBundleDiscoveryStrategy6151484819214307173.tmp/org.eclipse.m2e.discovery.oss_catalog_1.13.jar_5710184488375327761.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-egit.xml
+2021-02-18 10:01:40,059 [Worker-50: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2021-02-18 10:01:40,059 [Worker-50: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/sunny/AppData/Local/Temp/RemoteBundleDiscoveryStrategy6151484819214307173.tmp/org.eclipse.m2e.discovery.oss_catalog_1.13.jar_5710184488375327761.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive.xml
+2021-02-18 10:01:40,059 [Worker-50: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2021-02-18 10:01:40,069 [Worker-50: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/sunny/AppData/Local/Temp/RemoteBundleDiscoveryStrategy6151484819214307173.tmp/org.eclipse.m2e.discovery.oss_catalog_1.13.jar_5710184488375327761.jar!/lifecycle%2Forg.eclipse.m2e.discovery.extras.m2e-chromatic.xml
+2021-02-18 10:01:40,069 [Worker-50: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.extras.m2e-chromatic does not contain lifecycle mapping metadata
+2021-02-18 10:10:40,104 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-18 10:34:09,242 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-20 09:52:58,552 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-20 09:54:31,810 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-02-20 09:54:31,815 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-20 09:54:31,819 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-02-20 09:54:31,896 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-20 09:54:31,897 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\common\src\test\resources
+2021-02-20 09:54:32,244 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-20 09:54:32,246 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2021-02-20 09:54:32,297 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-02-20 09:54:32,298 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-20 09:54:32,299 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2021-02-20 09:54:32,426 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-20 09:54:32,426 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\install\src\test\resources
+2021-02-20 09:54:33,834 [Worker-31: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-20 09:54:33,854 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-20 09:54:33,854 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-02-20 09:54:33,860 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-20 09:54:33,860 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-20 09:54:35,537 [Worker-21: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-20 09:54:35,538 [Worker-21: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/model: BORGCalendar:model:1.9 with classifier  to /model/target/classes
+2021-02-20 09:54:35,574 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-20 09:54:35,576 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 76 resources
+2021-02-20 09:54:35,679 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-20 09:54:35,679 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\src\test\resources
+2021-02-22 14:39:37,627 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-22 14:40:38,234 [Worker-11: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Borg references non-existing project BORGCalendar.
+org.eclipse.core.runtime.CoreException: Launch configuration Borg references non-existing project BORGCalendar.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1843)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1718)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:521)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:401)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:824)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:990)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-02-22 14:40:38,235 [Worker-11: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Borg references non-existing project BORGCalendar.
+org.eclipse.core.runtime.CoreException: Launch configuration Borg references non-existing project BORGCalendar.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1843)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1718)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:521)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:402)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:824)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:990)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-02-22 14:40:38,237 [Worker-11: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Borg references non-existing project BORGCalendar.
+org.eclipse.core.runtime.CoreException: Launch configuration Borg references non-existing project BORGCalendar.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1843)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1718)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2132)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:374)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:257)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:227)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:185)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:403)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:824)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:990)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-02-22 14:40:38,238 [Worker-11: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Main references non-existing project BORGCalendar.
+org.eclipse.core.runtime.CoreException: Launch configuration Main references non-existing project BORGCalendar.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1843)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1718)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:521)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:401)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:824)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:990)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-02-22 14:40:38,238 [Worker-11: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Main references non-existing project BORGCalendar.
+org.eclipse.core.runtime.CoreException: Launch configuration Main references non-existing project BORGCalendar.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1843)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1718)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:521)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:402)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:824)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:990)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-02-22 14:40:38,241 [Worker-11: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Main references non-existing project BORGCalendar.
+org.eclipse.core.runtime.CoreException: Launch configuration Main references non-existing project BORGCalendar.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1843)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1718)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2132)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:374)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:257)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:227)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:185)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:403)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:824)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:990)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-02-22 14:40:48,016 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: BORGCalendar:BORGCalendar:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\pom.xml.
+2021-02-22 14:40:59,413 [Worker-18: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:common:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\common\pom.xml.
+2021-02-22 14:40:59,865 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-02-22 14:40:59,869 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 14:40:59,873 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-02-22 14:40:59,934 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 14:40:59,935 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\common\src\test\resources
+2021-02-22 14:41:01,192 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-02-22 14:41:01,193 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 14:41:01,198 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-02-22 14:41:01,250 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 14:41:01,251 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\common\src\test\resources
+2021-02-22 14:41:06,127 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:install:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\install\pom.xml.
+2021-02-22 14:41:06,189 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 14:41:06,190 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2021-02-22 14:41:06,243 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-02-22 14:41:06,244 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 14:41:06,244 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2021-02-22 14:41:06,352 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 14:41:06,353 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\install\src\test\resources
+2021-02-22 14:41:10,266 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:model:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\model\pom.xml.
+2021-02-22 14:41:10,507 [Worker-16: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-22 14:41:10,643 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 14:41:10,644 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-02-22 14:41:10,649 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 14:41:10,650 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-22 14:41:12,515 [Worker-17: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-22 14:41:12,532 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 14:41:12,534 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-02-22 14:41:12,538 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 14:41:12,539 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-22 14:41:16,331 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:swingui:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\pom.xml.
+2021-02-22 14:41:16,509 [Worker-8: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-22 14:41:16,510 [Worker-8: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/model: BORGCalendar:model:1.9 with classifier  to /model/target/classes
+2021-02-22 14:41:16,795 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 14:41:16,797 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 76 resources
+2021-02-22 14:41:16,906 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 14:41:16,906 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\src\test\resources
+2021-02-22 14:41:18,944 [Worker-35: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-22 14:41:18,946 [Worker-35: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/model: BORGCalendar:model:1.9 with classifier  to /model/target/classes
+2021-02-22 14:41:18,963 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 14:41:18,969 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 76 resources
+2021-02-22 14:41:19,056 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 14:41:19,056 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\src\test\resources
+2021-02-22 14:46:11,188 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-22 14:49:32,152 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-22 14:49:46,131 [Worker-31: Launching borg build] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar
+2021-02-22 14:49:46,134 [Worker-31: Launching borg build] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2021-02-22 14:49:52,572 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-02-22 14:49:52,577 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 14:49:52,582 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-02-22 14:49:52,655 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 14:49:52,655 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\common\src\test\resources
+2021-02-22 14:49:53,071 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 14:49:53,072 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2021-02-22 14:49:53,116 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-02-22 14:49:53,117 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 14:49:53,118 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 32 resources
+2021-02-22 14:49:53,256 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 14:49:53,257 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\install\src\test\resources
+2021-02-22 14:49:54,687 [Worker-36: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-22 14:49:54,708 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 14:49:54,709 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-02-22 14:49:54,713 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 14:49:54,714 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-22 14:49:56,375 [Worker-29: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-22 14:49:56,376 [Worker-29: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/model: BORGCalendar:model:1.9 with classifier  to /model/target/classes
+2021-02-22 14:49:56,401 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 14:49:56,404 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 76 resources
+2021-02-22 14:49:56,484 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 14:49:56,485 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\src\test\resources
+2021-02-22 15:00:50,148 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:00:50,155 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-02-22 15:00:50,160 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:00:50,161 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-22 15:02:05,294 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:02:05,295 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-02-22 15:02:05,300 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:02:05,301 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-22 15:02:06,114 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:02:06,121 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 76 resources
+2021-02-22 15:02:06,129 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:02:06,130 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\src\test\resources
+2021-02-22 15:02:30,541 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:02:30,543 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-02-22 15:02:30,548 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:02:30,549 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-22 15:02:31,335 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:02:31,340 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 76 resources
+2021-02-22 15:02:31,347 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:02:31,347 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\src\test\resources
+2021-02-22 15:03:32,503 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:03:32,504 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-02-22 15:03:32,508 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:03:32,509 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-22 15:03:54,741 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:03:54,742 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-02-22 15:03:54,746 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:03:54,746 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-22 15:04:31,256 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:04:31,257 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-02-22 15:04:31,261 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:04:31,262 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-22 15:05:13,592 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:model:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\model\pom.xml.
+2021-02-22 15:05:13,675 [Worker-40: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-22 15:05:13,717 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:swingui:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\pom.xml.
+2021-02-22 15:05:13,721 [Worker-40: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-22 15:05:13,722 [Worker-40: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/model: BORGCalendar:model:1.9 with classifier  to /model/target/classes
+2021-02-22 15:05:13,930 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:05:13,931 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-22 15:05:13,932 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:05:13,933 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-22 15:05:14,574 [Worker-23: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-22 15:05:14,586 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:05:14,587 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-02-22 15:05:14,593 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:05:14,594 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-22 15:05:15,712 [Worker-40: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-22 15:05:15,712 [Worker-40: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/model: BORGCalendar:model:1.9 with classifier  to /model/target/classes
+2021-02-22 15:05:15,726 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:05:15,733 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 76 resources
+2021-02-22 15:05:15,826 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:05:15,827 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\src\test\resources
+2021-02-22 15:05:24,671 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:model:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\model\pom.xml.
+2021-02-22 15:05:24,717 [Worker-40: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-22 15:05:24,749 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:swingui:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\pom.xml.
+2021-02-22 15:05:24,755 [Worker-40: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-22 15:05:24,757 [Worker-40: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/model: BORGCalendar:model:1.9 with classifier  to /model/target/classes
+2021-02-22 15:05:24,938 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:05:24,939 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-22 15:05:24,940 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:05:24,941 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-22 15:05:26,160 [Worker-39: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-22 15:05:26,171 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:05:26,172 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-02-22 15:05:26,176 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:05:26,177 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-22 15:05:27,043 [Worker-3: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common: BORGCalendar:common:1.9 with classifier  to /common/target/classes
+2021-02-22 15:05:27,044 [Worker-3: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/model: BORGCalendar:model:1.9 with classifier  to /model/target/classes
+2021-02-22 15:05:27,055 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:05:27,059 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 76 resources
+2021-02-22 15:05:27,145 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:05:27,145 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui\src\test\resources
+2021-02-22 15:05:51,099 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:05:51,100 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-02-22 15:05:51,104 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:05:51,104 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-22 15:06:50,108 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:06:50,109 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-02-22 15:06:50,112 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:06:50,113 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-22 15:07:11,724 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BORGCalendar:install:1.9 @ C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\install\pom.xml.
+2021-02-22 15:07:11,803 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:07:11,804 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-22 15:07:11,804 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2021-02-22 15:07:11,804 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:07:11,805 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-22 15:07:11,805 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-22 15:07:11,806 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\install\src\test\resources
