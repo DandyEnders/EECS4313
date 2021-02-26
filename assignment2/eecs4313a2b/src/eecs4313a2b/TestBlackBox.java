@@ -11,7 +11,7 @@ public class TestBlackBox {
 
 	private Date dateAfter, dateBefore, dateBefore2;
 	private SimpleDateFormat sdf = new SimpleDateFormat("dd-MM-yyyy");
-	
+
 	@Before
 	public void setUp() throws Exception {
 		String dateString1 = "13-12-2020";
@@ -20,20 +20,20 @@ public class TestBlackBox {
 		dateBefore = sdf.parse(dateString2);
 		dateBefore2 = sdf.parse(dateString2);
 	}
-	
+
 	@Test
-	public void testIsAfterA1() {
-		assertTrue(DateUtil.isAfter(dateAfter, dateBefore));    // C1: Case1, d1 comes after d2
+	public void testIsAfterC1() { // C1: Case1, d1 comes after d2
+		assertTrue(DateUtil.isAfter(dateAfter, dateBefore));
 	}
-	
+
 	@Test
-	public void testIsAfterA2() {
-		assertFalse(DateUtil.isAfter(dateBefore, dateAfter));   // C2: Case2, d2 comes after d1
+	public void testIsAfterC2() { // C2: Case2, d2 comes after d1
+		assertFalse(DateUtil.isAfter(dateBefore, dateAfter));
 	}
-	
+
 	@Test
-	public void testIsAfterA3() {
-		assertFalse(DateUtil.isAfter(dateBefore, dateBefore2)); // C3: Case3, two dates are equal
+	public void testIsAfterC3() { // C3: Case3, two dates are equal
+		assertFalse(DateUtil.isAfter(dateBefore, dateBefore2)); 
 	}
 
 }
