@@ -23,17 +23,17 @@ public class TestBlackBox {
 	
 	@Test
 	public void testIsAfterA1() {
-		assertTrue(DateUtil.isAfter(dateAfter, dateBefore));    // A1: Case1, d1 comes after d2
+		assertTrue(DateUtil.isAfter(dateAfter, dateBefore));    // C1: Case1, d1 comes after d2
 	}
 	
 	@Test
 	public void testIsAfterA2() {
-		assertFalse(DateUtil.isAfter(dateBefore, dateAfter));   // A2: Case2, d2 comes after d1
+		assertFalse(DateUtil.isAfter(dateBefore, dateAfter));   // C2: Case2, d2 comes after d1
 	}
 	
 	@Test
 	public void testIsAfterA3() {
-		assertFalse(DateUtil.isAfter(dateBefore, dateBefore2)); // A3: Case3, two dates are equal
+		assertFalse(DateUtil.isAfter(dateBefore, dateBefore2)); // C3: Case3, two dates are equal
 	}
 
 }
