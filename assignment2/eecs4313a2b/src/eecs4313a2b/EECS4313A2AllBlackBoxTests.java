@@ -8,7 +8,7 @@ import date_util_minuteStringTest;
 
 @RunWith(Suite.class)
 //@SuiteClasses({ TestBlackBox.class }) 
-@SuiteClasses ({date_util_minuteStringTest})  //ect
+@SuiteClasses ({DateUtilTest})  //ect
 public class EECS4313A2AllBlackBoxTests {
 
 }
