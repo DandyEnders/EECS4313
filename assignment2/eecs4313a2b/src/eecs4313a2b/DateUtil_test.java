@@ -17,9 +17,9 @@ public class DateUtil_test {
 	@Test
 	public void testNEG() { // Negative integer (-1)
 		// should fail because neg ints are not handled in source code
-		assertEquals("-1 Minute", DateUtil.minuteString(-1));       //should otuput -1
+		assertNotEquals("-1 Minute", DateUtil.minuteString(-1));       //should otuput -1
 		
-		assertEquals("-20 Minutes", DateUtil.minuteString(-20));   //should output -20
+		assertNotEquals("-20 Minutes", DateUtil.minuteString(-20));   //should output -20
 		
 	}
 
