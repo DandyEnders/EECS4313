@@ -7,6 +7,8 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\sunny\github\EECS4313\assignment2\eecs4313a2b"/>
+			<item value="C:\Users\sunny\github\EECS4313\assignment2\eecs4313a2w"/>
 			<item value="C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\swingui"/>
 			<item value="C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\model"/>
 			<item value="C:\Users\sunny\github\EECS4313\assignment2\borg_calendar-1.9.0.2\borg_calendar-1.9.0.2\BORGCalendar\install"/>
