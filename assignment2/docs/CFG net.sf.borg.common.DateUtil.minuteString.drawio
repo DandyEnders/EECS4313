@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T18:13:27.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="0gRE6KGOiWgJGICCMiKi" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-06T18:17:11.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="Jig8KUUaJXZ0sIt4HUhq" version="14.4.4" type="github">
   <diagram id="soXnBCgZx24ZNJJZUYAm" name="Page-1">
-    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,25 +16,31 @@
         <mxCell id="wIiQLc5AUW_qyTt2X6kA-4" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="380" y="100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wIiQLc5AUW_qyTt2X6kA-5" value="hourString =&lt;br&gt;hours + &quot;hours&quot;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wIiQLc5AUW_qyTt2X6kA-6" target="wIiQLc5AUW_qyTt2X6kA-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="wIiQLc5AUW_qyTt2X6kA-5" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;hourString =&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248 , 249 , 250) ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;hours + &quot;hours&quot;&lt;/span&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wIiQLc5AUW_qyTt2X6kA-6" target="wIiQLc5AUW_qyTt2X6kA-16" edge="1">
+          <mxGeometry x="-1" y="-112" relative="1" as="geometry">
+            <mxPoint x="-29" y="-107" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wIiQLc5AUW_qyTt2X6kA-6" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="220" y="260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wIiQLc5AUW_qyTt2X6kA-7" value="hourString =&lt;br&gt;hours + &quot;hour&quot;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wIiQLc5AUW_qyTt2X6kA-8" target="wIiQLc5AUW_qyTt2X6kA-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.75" y="-40" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wIiQLc5AUW_qyTt2X6kA-8" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="380" y="260" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wIiQLc5AUW_qyTt2X6kA-9" value="hourString =&lt;br&gt;&quot;&quot;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wIiQLc5AUW_qyTt2X6kA-10" target="wIiQLc5AUW_qyTt2X6kA-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="wIiQLc5AUW_qyTt2X6kA-9" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;hourString =&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248 , 249 , 250) ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&quot;&quot;&lt;/span&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wIiQLc5AUW_qyTt2X6kA-10" target="wIiQLc5AUW_qyTt2X6kA-16" edge="1">
+          <mxGeometry x="-1" y="112" relative="1" as="geometry">
+            <mxPoint x="29" y="-107" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wIiQLc5AUW_qyTt2X6kA-10" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="540" y="260" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wIiQLc5AUW_qyTt2X6kA-11" value="&lt;b&gt;int &lt;/b&gt;mins&lt;br&gt;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;hours = min / 60&lt;/span&gt;&lt;br style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;minsPast = mins % 60&lt;br&gt;&lt;/span&gt;minutesString = null&lt;br&gt;hoursString = null" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="wIiQLc5AUW_qyTt2X6kA-4" edge="1">
+        <mxCell id="wIiQLc5AUW_qyTt2X6kA-11" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="wIiQLc5AUW_qyTt2X6kA-4" edge="1">
           <mxGeometry x="-0.1111" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="10" as="sourcePoint" />
             <mxPoint x="340" y="80" as="targetPoint" />
@@ -57,32 +63,38 @@
           <mxGeometry x="380" y="420" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wIiQLc5AUW_qyTt2X6kA-17" value="minuteString =&lt;br&gt;minsPast + &quot;Minute&quot;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wIiQLc5AUW_qyTt2X6kA-18" target="wIiQLc5AUW_qyTt2X6kA-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.9667" y="-44" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wIiQLc5AUW_qyTt2X6kA-18" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="260" y="580" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wIiQLc5AUW_qyTt2X6kA-19" value="minuteString =&lt;br&gt;minsPast + &quot;Minutes&quot;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wIiQLc5AUW_qyTt2X6kA-20" target="wIiQLc5AUW_qyTt2X6kA-27" edge="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-1" y="-108" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="180" y="780" />
             </Array>
+            <mxPoint x="8" y="-40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wIiQLc5AUW_qyTt2X6kA-20" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="140" y="580" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wIiQLc5AUW_qyTt2X6kA-21" value="minuteString =&lt;br&gt;&quot;&quot;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wIiQLc5AUW_qyTt2X6kA-22" target="wIiQLc5AUW_qyTt2X6kA-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.8667" y="36" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wIiQLc5AUW_qyTt2X6kA-22" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="500" y="580" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wIiQLc5AUW_qyTt2X6kA-23" value="minuteString =&lt;br&gt;minsPast + &quot;Minutes&quot;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wIiQLc5AUW_qyTt2X6kA-24" target="wIiQLc5AUW_qyTt2X6kA-27" edge="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="wIiQLc5AUW_qyTt2X6kA-23" value="&lt;span&gt;minuteString =&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span&gt;minsPast + &quot;Minutes&quot;&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wIiQLc5AUW_qyTt2X6kA-24" target="wIiQLc5AUW_qyTt2X6kA-27" edge="1">
+          <mxGeometry x="-1" y="108" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="660" y="780" />
             </Array>
+            <mxPoint x="-8" y="-40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wIiQLc5AUW_qyTt2X6kA-24" value="9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -98,7 +110,9 @@
           <mxGeometry x="380" y="740" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wIiQLc5AUW_qyTt2X6kA-28" value="minutesString =&lt;br&gt;&quot; &quot; + minutesString" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wIiQLc5AUW_qyTt2X6kA-29" target="wIiQLc5AUW_qyTt2X6kA-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-1" y="-122" relative="1" as="geometry">
+            <mxPoint x="-32" y="-115" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wIiQLc5AUW_qyTt2X6kA-29" value="11" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="220" y="900" width="80" height="80" as="geometry" />
@@ -108,6 +122,9 @@
         </mxCell>
         <mxCell id="wIiQLc5AUW_qyTt2X6kA-31" value="return hoursString + minutesString" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="460" y="1090" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ah2nOq2sPgrQbMfKl9Oh-1" value="&#xa;&#xa;&lt;b style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;int&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;mins&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;hours = min / 60&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;minsPast = mins % 60&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;minutesString = null&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;hoursString = null&lt;/span&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="90" width="180" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
