@@ -57,6 +57,10 @@ public class TestDaysBetween {
 			{new Date(Long.MAX_VALUE), new Date(Long.MAX_VALUE - 1000 * 60 * 60 * 24)},
 			{new Date(Long.MAX_VALUE), new Date(Long.MAX_VALUE)},
 			{new Date(Long.MAX_VALUE), null},
+			{new Date(Long.MIN_VALUE + 1000 * 60 * 60 * 23), new Date(Long.MIN_VALUE + 1000 * 60 * 60 * 25)},
+			{new Date(Long.MIN_VALUE + 1000 * 60 * 60 * 23), new Date(Long.MIN_VALUE + 1000 * 60 * 60 * 25 + 1000 * 60 * 60 * 24 * 365)},
+			{new Date(Long.MIN_VALUE + 1000 * 60 * 60 * 23), new Date(Long.MIN_VALUE + 1000 * 60 * 60 * 22)},
+			{new Date(Long.MIN_VALUE + 1000 * 60 * 60 * 23 + 1000 * 60 * 60 * 24 * 365), new Date(Long.MIN_VALUE + 1000 * 60 * 60 * 22)},
 		});
 	}
 
