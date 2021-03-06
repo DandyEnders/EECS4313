@@ -5,7 +5,7 @@ import org.junit.runners.Suite;
 import org.junit.runners.Suite.SuiteClasses;
 
 @RunWith(Suite.class)
-@SuiteClasses({ TestWhiteBox.class })
+@SuiteClasses({ TestIsAfter.class, TestDaysBetween.class, TestMinuteString.class })
 public class EECS4313A2AllWhiteBoxTests {
 
 }
