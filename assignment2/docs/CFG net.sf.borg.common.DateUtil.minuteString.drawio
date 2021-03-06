@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-06T18:28:34.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="2ITBpxW0AQDD6nkICOK4" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-06T18:36:03.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="q02EwejCm9FgpeENDDoh" version="14.4.4" type="github">
   <diagram id="soXnBCgZx24ZNJJZUYAm" name="Page-1">
     <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="wIiQLc5AUW_qyTt2X6kA-1" value="hours &amp;gt; 1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wIiQLc5AUW_qyTt2X6kA-4" target="wIiQLc5AUW_qyTt2X6kA-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wIiQLc5AUW_qyTt2X6kA-2" value="hours &amp;gt; 0" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wIiQLc5AUW_qyTt2X6kA-4" target="wIiQLc5AUW_qyTt2X6kA-8" edge="1">
+        <mxCell id="wIiQLc5AUW_qyTt2X6kA-2" value="hours = 1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wIiQLc5AUW_qyTt2X6kA-4" target="wIiQLc5AUW_qyTt2X6kA-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wIiQLc5AUW_qyTt2X6kA-3" value="hours &amp;lt;= 0" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wIiQLc5AUW_qyTt2X6kA-4" target="wIiQLc5AUW_qyTt2X6kA-10" edge="1">
@@ -16,7 +16,7 @@
         <mxCell id="wIiQLc5AUW_qyTt2X6kA-4" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="380" y="100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wIiQLc5AUW_qyTt2X6kA-5" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;hourString =&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248 , 249 , 250) ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;hours + &quot;hours&quot;&lt;/span&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wIiQLc5AUW_qyTt2X6kA-6" target="wIiQLc5AUW_qyTt2X6kA-16" edge="1">
+        <mxCell id="wIiQLc5AUW_qyTt2X6kA-5" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;hourString =&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248 , 249 , 250) ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;hours + &quot;Hours&quot;&lt;/span&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wIiQLc5AUW_qyTt2X6kA-6" target="wIiQLc5AUW_qyTt2X6kA-16" edge="1">
           <mxGeometry x="-1" y="-112" relative="1" as="geometry">
             <mxPoint x="-29" y="-107" as="offset" />
           </mxGeometry>
@@ -24,7 +24,7 @@
         <mxCell id="wIiQLc5AUW_qyTt2X6kA-6" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="220" y="260" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wIiQLc5AUW_qyTt2X6kA-7" value="hourString =&lt;br&gt;hours + &quot;hour&quot;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wIiQLc5AUW_qyTt2X6kA-8" target="wIiQLc5AUW_qyTt2X6kA-16" edge="1">
+        <mxCell id="wIiQLc5AUW_qyTt2X6kA-7" value="hourString =&lt;br&gt;hours + &quot;Hour&quot;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wIiQLc5AUW_qyTt2X6kA-8" target="wIiQLc5AUW_qyTt2X6kA-16" edge="1">
           <mxGeometry x="-0.75" y="-40" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -47,16 +47,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wIiQLc5AUW_qyTt2X6kA-12" value="hours &amp;gt;= 1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wIiQLc5AUW_qyTt2X6kA-16" target="wIiQLc5AUW_qyTt2X6kA-22" edge="1">
+        <mxCell id="wIiQLc5AUW_qyTt2X6kA-12" value="minsPast &amp;lt;= 0&lt;br&gt;&amp;amp;&amp;amp;&lt;br&gt;hours &amp;gt;= 1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wIiQLc5AUW_qyTt2X6kA-16" target="wIiQLc5AUW_qyTt2X6kA-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wIiQLc5AUW_qyTt2X6kA-13" value="minsPast &amp;lt;= 0&lt;br&gt;||&lt;br&gt;hours &amp;lt; 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wIiQLc5AUW_qyTt2X6kA-16" target="wIiQLc5AUW_qyTt2X6kA-24" edge="1">
+        <mxCell id="wIiQLc5AUW_qyTt2X6kA-13" value="minsPast &amp;lt;= 0&lt;br&gt;&amp;amp;&amp;amp;&lt;br&gt;hours &amp;lt; 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wIiQLc5AUW_qyTt2X6kA-16" target="wIiQLc5AUW_qyTt2X6kA-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wIiQLc5AUW_qyTt2X6kA-14" value="minsPast &amp;gt; 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wIiQLc5AUW_qyTt2X6kA-16" target="wIiQLc5AUW_qyTt2X6kA-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wIiQLc5AUW_qyTt2X6kA-15" value="minsPast &amp;gt; 0" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wIiQLc5AUW_qyTt2X6kA-16" target="wIiQLc5AUW_qyTt2X6kA-18" edge="1">
+        <mxCell id="wIiQLc5AUW_qyTt2X6kA-15" value="minsPast = 1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wIiQLc5AUW_qyTt2X6kA-16" target="wIiQLc5AUW_qyTt2X6kA-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wIiQLc5AUW_qyTt2X6kA-16" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
