@@ -1,0 +1,81 @@
+<mxfile host="app.diagrams.net" modified="2021-03-04T18:13:06.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="aR6toRsEFcU2MT3bdzkA" version="14.4.4" type="github">
+  <diagram id="UM3WVpeibrlkxJAehlGA" name="Page-1">
+    <mxGraphModel dx="2012" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k5tLRSTYVWDchBb2EewC-1" value="dd == null" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k5tLRSTYVWDchBb2EewC-3" target="k5tLRSTYVWDchBb2EewC-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k5tLRSTYVWDchBb2EewC-2" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k5tLRSTYVWDchBb2EewC-3" target="k5tLRSTYVWDchBb2EewC-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k5tLRSTYVWDchBb2EewC-3" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-439" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k5tLRSTYVWDchBb2EewC-4" value="&lt;b&gt;Date &lt;/b&gt;start&lt;br&gt;&lt;b&gt;Date &lt;/b&gt;dd" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="k5tLRSTYVWDchBb2EewC-3" edge="1">
+          <mxGeometry x="-0.1111" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-399" y="40" as="sourcePoint" />
+            <mxPoint x="-1210" y="130" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k5tLRSTYVWDchBb2EewC-5" value="dcal.get(Calendar.YEAR) &lt;br&gt;==&lt;br&gt;startcal.get(Calendar.YEAR)" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k5tLRSTYVWDchBb2EewC-7" target="k5tLRSTYVWDchBb2EewC-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k5tLRSTYVWDchBb2EewC-6" value="dcal.get(Calendar.YEAR)&lt;br&gt;!=&lt;br&gt;startcal.get(Calendar.YEAR)" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k5tLRSTYVWDchBb2EewC-7" target="k5tLRSTYVWDchBb2EewC-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k5tLRSTYVWDchBb2EewC-7" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-439" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k5tLRSTYVWDchBb2EewC-9" value="2" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-560" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k5tLRSTYVWDchBb2EewC-10" value="&lt;b&gt;Calendar&lt;/b&gt; startcal = new GregorianCalendar()&lt;br&gt;&lt;b&gt;Calendar&lt;/b&gt;&amp;nbsp;dcal = new GregorianCalendar()&lt;br&gt;startcal.setTime(start)&lt;br&gt;dcal.setTime(dd)&lt;br&gt;&lt;b&gt;int&lt;/b&gt; days = 0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-360" y="360" width="279" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k5tLRSTYVWDchBb2EewC-11" value="&lt;div&gt;days =&amp;nbsp;&lt;/div&gt;&lt;div&gt;dcal.get(Calendar.DAY_OF_YEAR)&lt;/div&gt;&lt;div&gt;&lt;span&gt;     &lt;/span&gt;- startcal.get(Calendar.DAY_OF_YEAR);&lt;/div&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k5tLRSTYVWDchBb2EewC-12" target="k5tLRSTYVWDchBb2EewC-17" edge="1">
+          <mxGeometry x="-0.1973" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k5tLRSTYVWDchBb2EewC-12" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-600" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k5tLRSTYVWDchBb2EewC-13" value="&lt;div&gt;days =&amp;nbsp;&lt;/div&gt;&lt;div&gt;Long.valueOf((dd.getTime()&amp;nbsp;&lt;/div&gt;&lt;div&gt;- startcal.getTime().getTime())&lt;/div&gt;&lt;div&gt;&lt;span&gt;     &lt;/span&gt;/ (1000 * 60 * 60 * 24)).intValue();&lt;/div&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k5tLRSTYVWDchBb2EewC-14" target="k5tLRSTYVWDchBb2EewC-17" edge="1">
+          <mxGeometry x="-0.3838" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k5tLRSTYVWDchBb2EewC-14" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k5tLRSTYVWDchBb2EewC-15" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k5tLRSTYVWDchBb2EewC-17" target="k5tLRSTYVWDchBb2EewC-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k5tLRSTYVWDchBb2EewC-16" value="days &amp;lt; 0" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k5tLRSTYVWDchBb2EewC-17" target="k5tLRSTYVWDchBb2EewC-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k5tLRSTYVWDchBb2EewC-17" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-439" y="680" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k5tLRSTYVWDchBb2EewC-18" value="8" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-440" y="920" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k5tLRSTYVWDchBb2EewC-19" value="days = 0" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k5tLRSTYVWDchBb2EewC-20" target="k5tLRSTYVWDchBb2EewC-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k5tLRSTYVWDchBb2EewC-20" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-560" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k5tLRSTYVWDchBb2EewC-21" value="return days" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-359" y="950" width="79" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Dz6-iuL3_gnIOit-Od3i-2" value="return 0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="270" width="60" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
