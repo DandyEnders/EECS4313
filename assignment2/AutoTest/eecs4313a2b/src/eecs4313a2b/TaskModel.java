@@ -1,12 +1,9 @@
-package eecs4313a2w;
+package eecs4313a2b;
 
 import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
 
-
-// This class was added separately because importing from original Java project was not possible.
-// This is a carbon copy targeted for daysBetween in TaskModel.
 public class TaskModel {
 
 	/**

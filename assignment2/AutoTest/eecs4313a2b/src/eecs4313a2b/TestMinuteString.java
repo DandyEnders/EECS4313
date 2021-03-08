@@ -1,4 +1,4 @@
-package eecs4313a2w;
+package eecs4313a2b;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
@@ -20,7 +20,7 @@ public class TestMinuteString {
 		// should fail because neg ints are not handled in source code
 		assertNotEquals("-1 Minute", DateUtil.minuteString(-1));       //should otuput -1
 		
-		assertEquals("-20 Minute", DateUtil.minuteString(-20));   //should output -20
+		assertEquals("-20 Minutes", DateUtil.minuteString(-20));   //should output -20
 		
 	}
 
