@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/activation-1.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/asm-3.3.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/cglib-2.2.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/common-1.9.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/commons-codec-1.11.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/commons-collections4-4.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/commons-httpclient-3.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/commons-io-2.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/commons-lang3-3.8.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/commons-net-3.6.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/filedrop-1.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/h2-1.4.197.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/hsqldb-1.8.0.10.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/ical4j-2.2.5.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/ical4j-connector-1.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/ical4j-extensions-1.0.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/ical4j-vcard-1.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/install-1.9.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/jackrabbit-webdav-2.8.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/javahelp-2.0.05.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/javax.activation-api-1.2.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/javax.mail-api-1.5.4.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/jaxb-api-2.4.0-b180725.0427.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/jaxb-core-2.3.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/jaxb-impl-2.4.0-b180725.0644.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/jcalendar-1.4.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/jcl-over-slf4j-1.7.4.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/jcr-2.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/jcrom-2.0.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/junit-4.13.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/lombok-1.18.12.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/looks-2.2.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/mail-1.5.0-b01.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/model-1.9.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/slf4j-api-1.7.25.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/swingui-1.9.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/threetenbp-1.3.6.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sunny/github/EECS4313/assignment2/borg_calendar-1.9.0.2/borg_calendar-1.9.0.2/BORGCalendar/AutoTest/tika-core-1.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
