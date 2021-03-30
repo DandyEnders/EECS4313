@@ -1,0 +1,14 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+http://localhost/jpetstore/,5,2,2,3,0.40,0.000%,.04133,0.03,0.00,767.0
+http://localhost/jpetstore/shop/signonForm.shtml,5,80,5,378,148.80,0.000%,.04133,0.15,0.00,3688.6
+http://localhost/jpetstore/shop/index.shtml,30,2,1,8,1.54,0.000%,.20452,1.01,0.00,5056.2
+http://localhost/jpetstore/shop/newAccountForm.shtml,5,6,3,19,6.11,0.000%,.04146,0.22,0.00,5506.0
+http://localhost/jpetstore/shop/newAccount.shtml,5,15,3,45,16.26,0.000%,.04147,0.49,0.00,12033.0
+http://localhost/jpetstore/shop/viewCategory.shtml,25,4,2,18,3.22,0.000%,.18303,0.69,0.00,3841.4
+http://localhost/jpetstore/shop/viewProduct.shtml,25,4,2,15,2.61,0.000%,.18304,0.72,0.00,4051.4
+http://localhost/jpetstore/shop/addItemToCart.shtml,25,5,2,24,4.13,0.000%,.18306,0.95,0.00,5327.7
+http://localhost/jpetstore/shop/checkout.shtml,5,3,2,10,3.12,0.000%,.04150,0.16,0.00,3864.2
+http://localhost/jpetstore/shop/newOrderForm.shtml,5,3,1,14,5.20,0.000%,.04150,0.16,0.00,3992.0
+http://localhost/jpetstore/shop/newOrder.shtml,10,6,1,16,4.53,0.000%,.08233,0.45,0.00,5544.2
+http://localhost/jpetstore/shop/signoff.shtml,5,1,1,2,0.49,0.000%,.04151,0.20,0.00,5026.0
+TOTAL,150,7,1,378,30.79,0.000%,.99952,4.63,0.00,4746.8
