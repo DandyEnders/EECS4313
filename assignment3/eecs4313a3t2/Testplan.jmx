@@ -927,7 +927,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename"></stringProp>
+          <stringProp name="filename">C:\Users\sunny\github\EECS4313\assignment3\eecs4313a3t2\data\Scenario1\Scenario1PerformanceCounter.csv</stringProp>
         </ResultCollector>
         <hashTree/>
         <ResultCollector guiclass="GraphVisualizer" testclass="ResultCollector" testname="Graph Results" enabled="true">
@@ -1001,7 +1001,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">C:\Users\sunny\github\EECS4313\assignment3\eecs4313a3t2\data\Scenario1\Scenario1PerformanceCounter.csv</stringProp>
+          <stringProp name="filename"></stringProp>
           <longProp name="interval_grouping">1000</longProp>
           <boolProp name="graph_aggregated">false</boolProp>
           <stringProp name="include_sample_labels"></stringProp>
@@ -2141,7 +2141,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">C:\Users\sunny\github\EECS4313\assignment3\eecs4313a3t2\data\Scenario2\Scenario2PerformanceCounter.csv</stringProp>
+          <stringProp name="filename"></stringProp>
           <longProp name="interval_grouping">1000</longProp>
           <boolProp name="graph_aggregated">false</boolProp>
           <stringProp name="include_sample_labels"></stringProp>
