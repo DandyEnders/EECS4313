@@ -1,14 +1,1150 @@
-Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
-http://localhost/jpetstore/,5,2,2,3,0.40,0.000%,.04133,0.03,0.00,767.0
-http://localhost/jpetstore/shop/signonForm.shtml,5,80,5,378,148.80,0.000%,.04133,0.15,0.00,3688.6
-http://localhost/jpetstore/shop/index.shtml,30,2,1,8,1.54,0.000%,.20452,1.01,0.00,5056.2
-http://localhost/jpetstore/shop/newAccountForm.shtml,5,6,3,19,6.11,0.000%,.04146,0.22,0.00,5506.0
-http://localhost/jpetstore/shop/newAccount.shtml,5,15,3,45,16.26,0.000%,.04147,0.49,0.00,12033.0
-http://localhost/jpetstore/shop/viewCategory.shtml,25,4,2,18,3.22,0.000%,.18303,0.69,0.00,3841.4
-http://localhost/jpetstore/shop/viewProduct.shtml,25,4,2,15,2.61,0.000%,.18304,0.72,0.00,4051.4
-http://localhost/jpetstore/shop/addItemToCart.shtml,25,5,2,24,4.13,0.000%,.18306,0.95,0.00,5327.7
-http://localhost/jpetstore/shop/checkout.shtml,5,3,2,10,3.12,0.000%,.04150,0.16,0.00,3864.2
-http://localhost/jpetstore/shop/newOrderForm.shtml,5,3,1,14,5.20,0.000%,.04150,0.16,0.00,3992.0
-http://localhost/jpetstore/shop/newOrder.shtml,10,6,1,16,4.53,0.000%,.08233,0.45,0.00,5544.2
-http://localhost/jpetstore/shop/signoff.shtml,5,1,1,2,0.49,0.000%,.04151,0.20,0.00,5026.0
-TOTAL,150,7,1,378,30.79,0.000%,.99952,4.63,0.00,4746.8
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1617983209905,64637,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983209905,6394,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983209905,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983210908,64702,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983210908,10068,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983210908,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983211909,64701,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983211916,5623,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983211916,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983212975,64699,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983212977,4773,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983212977,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983213977,64699,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983213977,10717,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983213977,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983214978,64697,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983214978,3524,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983214978,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983215979,64696,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983215979,3784,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983215979,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983216980,64695,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983216980,7310,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983216980,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983217980,64695,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983217980,3798,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983217980,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983218981,65016,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983218981,13257,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983218981,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983219981,64721,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983219981,9661,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983219981,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983220981,64715,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983220981,8644,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983220981,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983221982,64642,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983221982,5346,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983221982,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983222982,64605,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983222982,4324,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983222982,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983223983,64602,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983223983,2837,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983223983,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983224984,64647,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983224984,4487,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983224984,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983225984,64650,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983225984,4277,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983225984,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983226984,64651,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983226984,4090,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983226984,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983227984,64651,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983227984,4746,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983227984,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983228984,64650,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983228984,3625,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983228984,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983229985,64650,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983229985,4080,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983229985,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983230985,64650,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983230985,4469,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983230985,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983231986,64650,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983231986,4499,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983231986,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983232986,64646,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983232986,4198,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983232986,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983233986,64645,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983233986,3879,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983233986,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983234986,64644,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983234986,4774,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983234986,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983235986,64643,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983235986,3801,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983235986,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983236986,64642,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983236986,4688,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983236986,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983237986,64765,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983237986,9458,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983237986,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983238987,64809,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983238987,7473,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983238987,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983239987,64795,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983239987,8806,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983239987,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983240988,64778,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983240988,8292,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983240988,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983241988,64945,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983241988,13139,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983241988,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983242989,64925,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983242989,15319,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983242989,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983243989,64887,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983243989,8581,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983243989,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983244990,64883,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983244990,6443,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983244990,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983245990,64897,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983245990,6800,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983245990,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983246990,64884,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983246990,4769,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983246990,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983247990,64800,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983247990,6232,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983247990,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983248991,64837,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983248991,7865,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983248991,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983249992,64794,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983249992,4295,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983249992,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983250992,64781,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983250992,5573,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983250992,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983251992,64743,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983251992,5868,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983251992,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983252992,64741,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983252992,6519,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983252992,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983253993,64739,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983253993,4877,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983253993,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983254993,64696,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983254993,7889,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983254993,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983255993,64704,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983255993,7647,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983255993,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983256994,64690,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983256994,10137,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983256994,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983257994,64438,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983257994,6623,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983257994,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983258994,64433,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983258994,7607,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983258994,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983259995,64569,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983259995,11508,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983259995,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983260995,64562,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983260995,5927,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983260995,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983261995,64560,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983261995,11755,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983261995,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983262995,64564,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983262995,9751,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983262995,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983263995,64771,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983263995,9368,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983263995,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983264996,64773,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983264996,9356,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983264996,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983265996,64822,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983265996,8566,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983265996,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983266996,64896,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983266996,10516,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983266996,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983267997,64898,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983267997,8302,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983267997,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983268997,64887,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983268997,9439,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983268997,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983269997,64875,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983269997,6050,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983269997,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983270997,64866,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983270997,6324,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983270997,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983271997,64828,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983271997,4794,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983271997,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983272998,64819,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983272998,8617,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983272998,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983273998,64857,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983273998,10317,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983273998,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983274998,64865,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983274998,10854,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983274998,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983275998,64851,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983275998,3624,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983275998,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983276998,64800,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983276998,3804,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983276998,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983277998,64791,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983277998,3112,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983277998,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983278998,64825,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983278998,4517,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983278998,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983279998,64823,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983279998,5400,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983279998,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983280998,64780,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983280998,6643,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983280998,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983281999,64770,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983281999,5072,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983281999,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983283000,64768,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983283000,4290,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983283000,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983284001,64767,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983284001,6714,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983284001,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983285001,64766,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983285001,4405,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983285001,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983286001,64766,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983286001,6424,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983286001,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983287002,64766,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983287002,4105,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983287002,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983288002,64765,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983288002,3584,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983288002,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983289003,64769,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983289003,2750,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983289003,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983290003,64769,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983290003,5175,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983290003,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983291003,64767,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983291003,4792,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983291003,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983292003,64767,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983292003,2910,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983292003,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983293004,64764,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983293004,3627,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983293004,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983294005,64763,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983294005,4881,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983294005,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983295006,64762,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983295006,3592,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983295006,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983296006,64761,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983296006,5674,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983296006,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983297006,64761,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983297006,4494,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983297006,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983298006,64834,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983298006,3701,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983298006,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983299007,64835,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983299007,5080,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983299007,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983300007,64837,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983300007,4401,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983300007,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983301007,64772,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983301007,4090,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983301007,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983302008,64771,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983302008,4402,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983302008,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983303008,64766,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983303008,5156,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983303008,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983304009,64763,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983304009,6791,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983304009,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983305009,64763,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983305009,4475,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983305009,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983306009,64762,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983306009,4491,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983306009,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983307009,64762,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983307009,3112,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983307009,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983308009,64758,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983308009,3601,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983308009,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983309010,64751,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983309010,4216,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983309010,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983310010,64749,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983310010,3660,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983310010,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983311011,64753,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983311011,3022,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983311011,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983312011,64748,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983312011,1966,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983312011,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983313011,64748,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983313011,4179,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983313011,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983314012,64745,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983314012,5658,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983314012,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983315012,64744,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983315012,6807,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983315012,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983316012,64738,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983316012,4769,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983316012,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983317012,64737,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983317012,4197,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983317012,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983318012,64735,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983318012,6842,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983318012,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983319013,64734,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983319013,4684,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983319013,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983320014,64734,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983320014,6783,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983320014,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983321015,64732,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983321015,6237,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983321015,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983322016,64732,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983322016,5358,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983322016,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983323016,64729,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983323016,5070,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983323016,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983324017,64729,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983324017,3711,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983324017,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983325017,64722,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983325017,6650,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983325017,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983326017,64717,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983326017,4571,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983326017,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983327017,64715,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983327017,2437,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983327017,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983328018,64793,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983328018,3037,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983328018,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983329018,64793,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983329018,4374,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983329018,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983330019,64795,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983330019,4393,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983330019,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983331019,64720,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983331019,5363,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983331019,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983332020,64719,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983332020,2341,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983332020,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983333021,64716,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983333021,5175,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983333021,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983334022,64797,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983334022,2843,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983334022,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983335023,64799,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983335023,5069,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983335023,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983336024,64796,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983336024,3315,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983336024,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983337024,64731,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983337024,3812,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983337024,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983338025,64729,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983338025,5334,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983338025,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983339026,64728,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983339026,3521,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983339026,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983340026,64723,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983340026,3218,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983340026,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983341026,64722,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983341026,4551,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983341026,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983342026,64718,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983342026,4774,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983342026,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983343027,64719,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983343027,2937,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983343027,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983344027,65020,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983344027,7302,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983344027,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983345027,64981,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983345027,9502,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983345027,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983346028,64959,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983346028,4093,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983346028,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983347028,64959,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983347028,6618,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983347028,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983348029,64960,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983348029,3918,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983348029,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983349030,64960,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983349030,3088,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983349030,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983350031,64954,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983350031,4802,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983350031,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983351031,64952,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983351031,3599,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983351031,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983352032,64939,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983352032,6342,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983352032,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983353032,65017,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983353032,10641,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983353032,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983354032,65319,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983354032,13363,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983354032,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983355032,65333,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983355032,8294,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983355032,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983356032,65340,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983356032,12722,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983356032,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983357032,65481,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983357032,11601,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983357032,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983358033,65520,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983358033,14246,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983358033,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983359034,65520,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983359034,12044,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983359034,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983360034,65503,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983360034,7621,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983360034,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983361034,65428,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983361034,7617,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983361034,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983362034,65423,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983362034,7608,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983362034,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983363035,65369,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983363035,5657,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983363035,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983364036,65406,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983364036,15852,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983364036,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983365036,65419,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983365036,10565,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983365036,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983366037,65414,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983366037,11109,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983366037,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983367037,65408,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983367037,5744,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983367037,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983368037,65409,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983368037,7199,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983368037,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983369037,65408,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983369037,6238,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983369037,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983370038,65358,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983370038,7407,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983370038,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983371038,65345,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983371038,3293,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983371038,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983372039,65342,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983372039,4187,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983372039,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983373039,65340,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983373039,4382,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983373039,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983374039,65335,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983374039,2234,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983374039,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983375040,65332,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983375040,3330,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983375040,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983376041,65302,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983376041,8291,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983376041,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983377041,65203,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983377041,2800,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983377041,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983378042,65122,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983378042,4251,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983378042,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983379042,65120,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983379042,5767,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983379042,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983380042,65112,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983380042,2231,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983380042,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983381042,65098,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983381042,3418,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983381042,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983382043,65095,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983382043,4980,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983382043,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983383043,65094,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983383043,3215,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983383043,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983384044,65059,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983384044,2248,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983384044,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983385044,65056,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983385044,2444,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983385044,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983386045,65040,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983386045,6132,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983386045,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983387045,65134,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983387045,6167,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983387045,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983388046,65134,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983388046,4666,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983388046,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983389047,65136,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983389047,6356,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983389047,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983390048,65162,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983390048,6232,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983390048,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983391048,65271,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983391048,9676,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983391048,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983392048,65270,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983392048,4295,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983392048,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983393048,65175,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983393048,5826,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983393048,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983394049,65174,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983394049,2643,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983394049,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983395049,65165,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983395049,1276,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983395049,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983396049,65152,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983396049,5937,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983396049,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983397050,65016,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983397050,4413,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983397050,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983398050,65013,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983398050,2722,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983398050,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983399051,64773,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983399051,2931,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983399051,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983400052,64657,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983400052,3521,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983400052,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983401052,64651,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983401052,3325,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983401052,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983402052,64738,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983402052,2443,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983402052,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983403052,64738,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983403052,3103,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983403052,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983404052,65001,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983404052,6650,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983404052,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983405052,64918,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983405052,2437,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983405052,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983406052,64767,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983406052,2613,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983406052,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983407053,64767,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983407053,3922,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983407053,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983408054,64766,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983408054,1149,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983408054,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983409055,64766,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983409055,1568,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983409055,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983410055,64765,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983410055,1958,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983410055,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983411056,64763,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983411056,1836,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983411056,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983412056,64761,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983412056,3818,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983412056,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983413057,64760,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983413057,2045,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983413057,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983414058,64765,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983414058,2725,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983414058,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983415058,64765,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983415058,2138,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983415058,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983416059,64763,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983416059,2143,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983416059,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983417060,64758,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983417060,3435,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983417060,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983418061,64755,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983418061,2043,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983418061,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983419062,64755,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983419062,1666,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983419062,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983420063,64747,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983420063,2035,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983420063,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983421063,64742,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983421063,2439,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983421063,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983422063,64738,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983422063,1567,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983422063,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983423064,64733,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983423064,2251,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983423064,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983424064,64731,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983424064,2335,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983424064,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983425065,64730,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983425065,2160,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983425065,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983426066,64730,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983426066,1361,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983426066,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983427067,64729,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983427067,3606,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983427067,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983428067,64781,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983428067,2430,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983428067,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983429067,64799,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983429067,6718,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983429067,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983430068,64804,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983430068,5257,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983430068,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983431069,64752,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983431069,6449,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983431069,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983432069,64716,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983432069,5662,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983432069,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983433070,64712,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983433070,2843,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983433070,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983434070,64714,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983434070,3418,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983434070,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983435071,64722,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983435071,4769,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983435071,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983436071,64727,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983436071,4413,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983436071,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983437071,64725,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983437071,2354,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983437071,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983438072,64725,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983438072,2415,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983438072,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983439072,64724,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983439072,982,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983439072,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983440072,64717,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983440072,2037,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983440072,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983441073,64723,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983441073,1944,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983441073,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983442073,64831,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983442073,1966,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983442073,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983443074,64832,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983443074,1271,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983443074,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983444075,64832,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983444075,859,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983444075,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983445075,64765,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983445075,1662,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983445075,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983446075,64759,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983446075,1848,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983446075,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983447075,64751,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983447075,1680,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983447075,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983448076,64703,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983448076,4096,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983448076,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983449077,64701,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983449077,2043,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983449077,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983450077,64700,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983450077,1271,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983450077,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983451077,64680,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983451077,1734,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983451077,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983452078,64676,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983452078,1648,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983452078,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983453078,64670,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983453078,1862,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983453078,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983454079,64664,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983454079,1843,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983454079,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983455080,64669,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983455080,3146,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983455080,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983456080,64669,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983456080,1659,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983456080,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983457080,64679,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983457080,1567,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983457080,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983458081,64678,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983458081,3994,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983458081,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983459081,64677,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983459081,2235,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983459081,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983460081,64677,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983460081,3197,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983460081,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983461082,64677,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983461082,4128,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983461082,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983462082,64674,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983462082,2722,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983462082,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983463083,64673,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983463083,2050,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983463083,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983464083,64658,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983464083,2455,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983464083,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983465084,64663,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983465084,3321,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983465084,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983466085,64665,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983466085,3712,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983466085,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983467085,64677,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983467085,5159,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983467085,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983468086,64676,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983468086,4477,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983468086,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983469087,64670,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983469087,5462,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983469087,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983470087,64650,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983470087,6786,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983470087,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983471087,64644,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983471087,6108,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983471087,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983472087,64646,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983472087,5635,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983472087,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983473087,64642,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983473087,6206,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983473087,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983474088,64641,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983474088,2420,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983474088,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983475089,64618,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983475089,4387,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983475089,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983476089,64613,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983476089,2638,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983476089,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983477089,64614,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983477089,4485,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983477089,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983478089,64765,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983478089,8970,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983478089,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983479090,64875,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983479090,5247,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983479090,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983480091,64910,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983480091,8914,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983480091,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983481091,64882,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983481091,7412,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983481091,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983482091,64939,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983482091,7902,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983482091,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983483091,65176,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983483091,7912,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983483091,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983484092,65208,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983484092,6926,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983484092,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983485093,65110,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983485093,5357,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983485093,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983486093,65059,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983486093,10219,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983486093,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983487094,65058,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983487094,10833,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983487094,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983488094,65045,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983488094,5222,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983488094,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983489095,65021,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983489095,6699,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983489095,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983490095,64998,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983490095,4671,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983490095,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983491096,64941,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983491096,3405,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983491096,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983492096,64913,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983492096,4673,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983492096,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983493097,64866,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983493097,6319,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983493097,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983494097,64836,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983494097,4012,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983494097,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983495097,64827,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983495097,6338,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983495097,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983496098,64816,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983496098,5926,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983496098,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983497099,64795,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983497099,7771,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983497099,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983498099,64760,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983498099,4551,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983498099,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983499099,64729,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983499099,6618,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983499099,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983500099,64717,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983500099,5480,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983500099,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983501100,64682,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983501100,17370,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983501100,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983502101,64682,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983502101,4286,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983502101,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983503101,64649,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983503101,3812,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983503101,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983504101,64637,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983504101,3401,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983504101,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983505102,64622,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983505102,4221,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983505102,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983506103,64609,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983506103,5054,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983506103,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983507103,64610,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983507103,3328,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983507103,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983508104,64601,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983508104,5142,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983508104,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983509104,64513,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983509104,7818,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983509104,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983510105,64501,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983510105,6157,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983510105,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983511106,64515,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983511106,6648,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983511106,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983512107,64513,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983512107,6699,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983512107,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983513107,64459,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983513107,8691,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983513107,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983514108,64458,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983514108,3505,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983514108,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983515108,64548,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983515108,9118,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983515108,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983516108,64340,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983516108,11021,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983516108,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983517109,64073,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983517109,7818,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983517109,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983518110,64042,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983518110,8084,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983518110,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983519110,64033,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983519110,4315,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983519110,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983520111,64037,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983520111,3980,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983520111,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983521112,63963,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983521112,5617,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983521112,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983522113,63941,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983522113,4674,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983522113,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983523113,63932,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983523113,5653,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983523113,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983524114,64040,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983524114,8641,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983524114,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983525114,64149,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983525114,10368,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983525114,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983526114,64152,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983526114,8077,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983526114,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983527115,64165,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983527115,12622,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983527115,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983528115,64165,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983528115,5910,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983528115,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983529115,64165,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983529115,3296,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983529115,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983530116,64163,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983530116,6361,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983530116,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983531117,64158,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983531117,2910,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983531117,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983532118,64152,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983532118,3025,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983532118,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983533118,64061,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983533118,3113,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983533118,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983534136,64056,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983534136,9579,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983534136,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983535137,64076,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983535137,7609,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983535137,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983536138,64074,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983536138,3511,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983536138,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983537138,64020,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983537138,2343,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983537138,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983538139,64089,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983538139,5169,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983538139,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983539139,64093,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983539139,2056,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983539139,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983540140,64050,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983540140,4787,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983540140,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983541140,63988,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983541140,2151,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983541140,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983542140,63940,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983542140,3902,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983542140,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983543141,63924,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983543141,5838,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983543141,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983544142,63915,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983544142,5266,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983544142,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983545143,63911,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983545143,6549,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983545143,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983546143,63898,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983546143,5462,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983546143,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983547143,63816,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983547143,5641,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983547143,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983548143,63789,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983548143,5949,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983548143,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983549143,63787,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983549143,2731,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983549143,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983550143,63786,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983550143,6162,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983550143,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983551144,63786,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983551144,6219,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983551144,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983552144,63879,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983552144,5477,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983552144,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983553145,63875,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983553145,2055,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983553145,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983554145,63869,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983554145,1748,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983554145,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983555145,63870,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983555145,11707,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983555145,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983556146,63911,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983556146,2435,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983556146,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983557147,63825,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983557147,3115,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983557147,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983558148,63822,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983558148,1817,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983558148,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983559148,63827,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983559148,3325,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983559148,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983560148,63780,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983560148,4476,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983560148,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983561149,63663,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983561149,7793,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983561149,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983562149,63648,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983562149,1374,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983562149,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983563150,63629,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983563150,1071,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983563150,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983564150,63625,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983564150,2239,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983564150,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983565150,63604,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983565150,2740,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983565150,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983566150,63583,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983566150,1547,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983566150,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983567151,63582,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983567151,979,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983567151,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983568151,63583,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983568151,2244,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983568151,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983569151,63588,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983569151,880,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983569151,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983570152,63588,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983570152,1162,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983570152,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983571152,63580,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983571152,6419,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983571152,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983572153,63606,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983572153,2716,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983572153,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983573153,63614,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983573153,2226,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983573153,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983574153,63611,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983574153,2533,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983574153,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983575154,63557,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983575154,5062,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983575154,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983576155,63549,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983576155,8985,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983576155,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983577156,63534,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983577156,981,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983577156,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983578157,63544,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983578157,1274,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983578157,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983579158,63554,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983579158,1168,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983579158,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983580159,63560,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983580159,973,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983580159,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983581159,63536,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983581159,3336,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983581159,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983582160,63532,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983582160,481,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983582160,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983583161,63531,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983583161,682,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983583161,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983584161,63528,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983584161,780,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983584161,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983585162,63516,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983585162,2437,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983585162,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983586162,63503,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983586162,1850,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983586162,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983587163,63502,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983587163,875,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983587163,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983588164,63526,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983588164,787,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983588164,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983589165,63539,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983589165,871,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983589165,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983590165,63551,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983590165,685,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983590165,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983591166,63551,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983591166,2442,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983591166,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
+1617983592166,63543,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1617983592166,873,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1617983592166,0,localhost Disks I/O,,,,,true,,0,0,0,0,null,0,0,0
