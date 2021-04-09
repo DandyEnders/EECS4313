@@ -13,7 +13,6 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 
-
 @RunWith(Parameterized.class)
 public class TestDaysBetween {
 	
@@ -24,12 +23,12 @@ public class TestDaysBetween {
 		this.startDate = startDate;
 		this.endDate = endDate;
 	}
-	
+	 
 	/**
 	 * Inputs for parameterized tests.
 	 * @return Inputs for parameterized tests.
 	 */
-	@Parameterized.Parameters 
+	@Parameterized.Parameters
 	public static Collection<Object[]> datePair() {
 		return Arrays.asList(new Object[][] {
 			{new Date(Long.MIN_VALUE), new Date(Long.MIN_VALUE)},
@@ -57,6 +56,10 @@ public class TestDaysBetween {
 		//	{new Date(Long.MAX_VALUE), new Date(0)},
 			{new Date(Long.MAX_VALUE), new Date(Long.MAX_VALUE - 1000 * 60 * 60 * 24)},
 			{new Date(Long.MAX_VALUE), new Date(Long.MAX_VALUE)},
+			{new Date(Long.MAX_VALUE), null},
+			{new Date(-1000*60*60*7 + 1000*60*60*24), new Date(1000*60*60*6 + 1000*60*60*24)},
+			{new Date(1000*60*60*6 + 1000*60*60*24), new Date(-1000*60*60*7 + 1000*60*60*24)},
+		//	{new Date(-1000*60*60*7), new Date(1000*60*60*6)},
 		});
 	}
 
@@ -65,18 +68,26 @@ public class TestDaysBetween {
 	 * Boundary testings for daysBetween Method
 	 */
 	public void daysBetweenTest() {
-		LocalDate startLocalDate = LocalDate.ofInstant(startDate.toInstant(), ZoneId.systemDefault());
-		LocalDate endLocalDate = LocalDate.ofInstant(endDate.toInstant(), ZoneId.systemDefault());
-		double actualAnswer = TaskModel.daysBetween(startDate, endDate);
-		double expectedAnswer = ChronoUnit.DAYS.between(startLocalDate, endLocalDate);
-		
-		//While not in the JavaDocs, this behaviour is commented in the code.
-		if (expectedAnswer < 0) {
-			expectedAnswer = 0;
+		if (endDate != null) {
+			LocalDate startLocalDate = LocalDate.ofInstant(startDate.toInstant(), ZoneId.systemDefault());
+			LocalDate endLocalDate = LocalDate.ofInstant(endDate.toInstant(), ZoneId.systemDefault());
+			double actualAnswer = TaskModel.daysBetween(startDate, endDate);
+			double expectedAnswer = ChronoUnit.DAYS.between(startLocalDate, endLocalDate);
+			
+			//While not in the JavaDocs, this behaviour is commented in the code.
+			if (expectedAnswer < 0) {
+				expectedAnswer = 0;
+			}
+			
+			assertEquals("Days between " + startLocalDate.toString() + " and "
+					+ endLocalDate.toString() + ":", expectedAnswer, actualAnswer, 0.000001);
+		} else {
+			double actualAnswer = TaskModel.daysBetween(null, null);
+	        double expectedAnswer = 0;
+
+	        assertEquals("Days between two null dates:", expectedAnswer, actualAnswer, 0.000001);
 		}
 		
-		assertEquals("Days between " + startLocalDate.toString() + " and "
-				+ endLocalDate.toString() + ":", expectedAnswer, actualAnswer, 0.000001);
 	}
 
 }
