@@ -88,7 +88,7 @@ public class TaskModel {
 		
 		String minutesString;
 		String hoursString;
-		
+		 
 		if (hours > 1) {
 			hoursString = hours + " " + Resource.getResourceString("Hours");
 		} else if (hours > 0) {

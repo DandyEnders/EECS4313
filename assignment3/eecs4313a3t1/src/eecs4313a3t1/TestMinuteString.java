@@ -8,7 +8,7 @@ import org.junit.Test;
 
 public class TestMinuteString {
 
-	/*
+	/* 
 	 * partitions: 
 	 * 
 	 * 10 cases: negative int (-1), 0, 1, [2,59], 60, 61, [62, 119], 60*n where n

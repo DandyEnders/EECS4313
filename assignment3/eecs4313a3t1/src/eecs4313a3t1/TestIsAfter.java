@@ -25,8 +25,8 @@ public class TestIsAfter {
 		String dateString3 = dateString1 + " 12:12:12";
 		dateAndTime = sdfTime.parse(dateString3);
 	}
-
-	@Test
+ 
+	@Test 
 	public void testIsAfterC1() { // C1: Case1, d1 comes after d2
 		assertTrue(TaskModel.isAfter(dateAfter, dateBefore));
 	}

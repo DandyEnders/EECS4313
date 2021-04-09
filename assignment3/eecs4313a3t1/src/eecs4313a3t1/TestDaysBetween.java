@@ -29,7 +29,7 @@ public class TestDaysBetween {
 	 * Inputs for parameterized tests.
 	 * @return Inputs for parameterized tests.
 	 */
-	@Parameterized.Parameters
+	@Parameterized.Parameters 
 	public static Collection<Object[]> datePair() {
 		return Arrays.asList(new Object[][] {
 			{new Date(Long.MIN_VALUE), new Date(Long.MIN_VALUE)},
